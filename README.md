@@ -7,6 +7,7 @@ Welcome to the Hotel Analytics project. This repository features a data-driven a
 
 - [Introduction](#introduction)  
 - [Project Description](#project-description)
+- [Folder Structure](#Folder-Structure)
 - [Key Features](#Key-Features)
 - [Installation](#installation)  
 - [Usage](#usage)  

@@ -25,6 +25,16 @@ Welcome to the Hotel Analytics project. This repository features a data-driven a
 ## Project Description 
 This project addresses inconsistent revenue generation across luxury and business property segments. By analyzing internal booking logs and customer feedback, this study identifies high-performing properties and evaluates the effectiveness of various booking platforms like MakeYourTrip and Logtrip
 
+
+---
+## Folder Structure
+
+- *Raw Data - The actual files and data I used to build the project*
+- *Presentation - The finalized analysis so you can see the results in formate PDF*
+- *Solution - The final results in the function added as the Excel File*
+
+---
+
 ## Key Features
 - *Revenue Performance Tracking*
 - *Platform Contribution Analysis*
